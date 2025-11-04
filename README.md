@@ -1,2 +1,2 @@
-# MODIS-fire-data-Guizhou
+# MODIS-fire-data
 Drivers of forest fires under fire management policies: A comparison of machine learning models based on multi-temporal MODIS fire data
